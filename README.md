@@ -1,4 +1,6 @@
 🧠 **Alzheimer's Disease Detection Using Various Machine Learning Algorithms**
+
+
 ![brain](https://github.com/user-attachments/assets/b50c3ac1-f1db-477e-a8d4-ab868483d739)
 ## 📌 Project Overview  
 This project aims to detect **Alzheimer's Disease** using **Machine Learning Models** trained on a dataset of clinical data. The feature selection entailed running six different cases on the types of features. 
