@@ -19,7 +19,7 @@ This project aims to detect **Alzheimer's Disease** using **Machine Learning Mod
 - Visualization: Matplotlib, Seaborn
   
 ## 📊 Dataset  
-The dataset was sourced from **Kaggle**. We performed data preprocessing, feature selection, and comparison to improve model performance.  
+The dataset was sourced from **Kaggle**. We performed data preprocessing, feature selection, and model comparison to improve model performance.  
 
 ## 📈 Model Performance  
 Our best-performing model achieved:  
